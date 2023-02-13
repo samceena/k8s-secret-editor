@@ -1,0 +1,4 @@
+dist
+node_modules
+typeorm-config-create-migration.js
+typeorm-config-apply-migration.js
